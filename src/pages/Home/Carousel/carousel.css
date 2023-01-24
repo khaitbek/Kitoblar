@@ -1,0 +1,15 @@
+.carousel-indicator {
+    width: 60px !important;
+    height: 3px !important;
+    margin-right: 11px;
+    background-color: #fff !important;
+}
+
+.owl-dots{
+    position: absolute;
+    display: flex !important;
+    align-items: center !important;
+    gap: 11px !important;
+    left: 85px;
+    bottom: 100px;
+}
